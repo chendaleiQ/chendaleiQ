@@ -4,4 +4,4 @@
 
 ![Dalei's GitHub stats](https://github-readme-stats.vercel.app/api?username=chendaleiQ&show_icons=true&theme=tokyonight)
 
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chendaleiQ)]
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chendaleiQ)
